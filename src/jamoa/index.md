@@ -2,10 +2,10 @@
 
 ## Maqsadi
 
-Avvalambor shuni aytib o'tiz joizki, bu guruh yaralishidan maqsad bu Linux ni
+Avvalambor shuni aytib o'tish joizki, bu guruh yaralishidan maqsad bu Linux ni
 O'zbekistonda keng miqyosda rivojlantirish va undan foydalanishni hammaga
 o'rgatishdir. Bizning guruhimiz, jamiyatimiz hamma Linux va uning
-distributlarini qamrab olgan hisoblanib Linuxdagi hamma ma'lumotlar, yechimlar
+distributlarini qamrab olgan hisoblanib, Linuxdagi hamma ma'lumotlar, yechimlar
 va ulardagi foydalanish usuliyu sirlarini bo'lishishga va ularni boshqalar bilan
 birgalikda o'rganib chiqishga qaratilgan.
 
